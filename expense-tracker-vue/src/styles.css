@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+    .form-container {
+      flex-direction: column;
+    }
+  
+    .header-info {
+      flex-direction: column;
+    }
+  }
+  
